@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-I'm Toby, a passionate software engineer with a strong focus on building high-performance, scalable, and efficient software solutions.
+I'm Toby, a passionate software engineer dedicated to building high-performance, scalable, and maintainable software solutions that make a real impact.
 
-- 🎓 **Education:** I hold a degree in Software Engineering from the University of Newcastle
-- 💼 **Current Role:** I'm currently working as a Software Engineer at SSW Newcastle, where I help craft innovative solutions for clients by leveraging cutting-edge technologies.
-- 💻 **Tech Stack:** My expertise lies primarily in:
-  - **C# and .NET:** Building backend systems and APIs that are robust, secure, and optimized for performance.
-  - **Angular and TypeScript:** Crafting dynamic, user-friendly web applications with a focus on clean, maintainable code.
-  - **Java:** Contributing to cross-platform development and backend integrations.
-- 🚀 **What I'm Working On:** I'm actively involved in developing and optimizing web applications, particularly with the advent of .NET 8
+- 🎓 Education: Bachelor of Software Engineering, University of Newcastle
+- 💼 Current Role: Software Engineer at [SSW](https://www.ssw.com.au/) Newcastle, where I deliver innovative solutions by combining modern development practices with strong engineering principles.
+- 💻 Tech Stack:
+  - C# & .NET: Designing and building robust APIs, backend systems, and enterprise applications.
+  - Blazor: Developing interactive, client-side web applications with clean architectures and seamless integration across the stack.
+  - Angular & TypeScript: Creating responsive, user-focused web interfaces with an emphasis on maintainability and performance.
+- 🚀 What I’m Working On: Collaborating with SSW client's to deliver an impactful, full-featured web applications that drives business value and enhances user experience.
 
 [![Toby's github stats](https://github-readme-stats.vercel.app/api?username=TobyChurches&theme=dark)](https://github.com/TobyChurches/github-readme-stats)
