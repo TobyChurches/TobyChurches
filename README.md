@@ -11,3 +11,4 @@ I'm Toby, a passionate software engineer dedicated to building high-performance,
 - 🚀 What I’m Working On: Collaborating with SSW client's to deliver an impactful, full-featured web applications that drives business value and enhances user experience.
 
 [![Toby's github stats](https://github-readme-stats.vercel.app/api?username=TobyChurches&theme=dark)](https://github.com/TobyChurches/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TobyChurches&layout=compact)
